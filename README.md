@@ -2,7 +2,7 @@
 # JavaScript Challenge
 
 # Module 1 / Day 6 at Strive School (EPICODE)
-# Answers in the homework.js file
+# Answers in the homework.html file
 
 You have been assigned to the creation of a Smartphone Shop Website. The homepage you're about to write is just a showcase of the products of the shop with some extra information. No shopping cart / checkout features are required.
 
